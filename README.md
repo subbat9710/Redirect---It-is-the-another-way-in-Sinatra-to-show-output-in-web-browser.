@@ -1,4 +1,6 @@
 Projects: Personal Details(Name & Locations)
+
+
 This project is based on the personal details. Not all details personal information but only name and location.
 Details: 1. Enter your name?
          2. Enter your location?
